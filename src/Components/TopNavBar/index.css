@@ -1,0 +1,30 @@
+.container {
+  min-height: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow:inset;
+  box-shadow: 0px 1px 10px #888888;
+}
+
+.right-section {
+  padding: 0px 40px;
+}
+
+.left-section {
+  padding: 0px 0px 0px 40px;
+  font-weight: bold;
+  color: #717173;
+}
+
+.icons-container {
+  min-width: 100px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.icon-div:hover{
+  padding:3px;
+  background-color: lightgray;
+}

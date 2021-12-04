@@ -1,0 +1,9 @@
+Dated: 19/11/2020
+
+Completed basic Home Page .
+For Login with Github:
+    1.Setup redux
+        1.a Create Store
+        1.b Create reducer, actions
+    2.create a Proxy server which will call the github apis to avoid Cors.
+    3.Login component

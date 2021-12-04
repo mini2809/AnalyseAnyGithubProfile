@@ -1,0 +1,20 @@
+.side-main-container{
+    min-width: 30%;
+    background-color: #956AFF;
+    height: 100%;
+}
+#side-nav{
+    width: 100%;
+    padding: 10px;
+}
+#side-nav tr{
+    height: 40px;
+}
+th{
+    text-align:left;
+
+}
+.icons{
+    text-align: left;
+}
+#side-nav tr:hover{background-color: #FFFFFF;}
